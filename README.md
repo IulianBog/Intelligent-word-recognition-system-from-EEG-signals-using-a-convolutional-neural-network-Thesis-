@@ -1,4 +1,4 @@
-This paper aims to differentiate some words and / or phonemes acquired during imagined speech (their imagined thinking / utterance) from electroencephalographic signals. In order to achieve the proposed objective, the following objectives are pursued:
+This project aims to differentiate some words and / or phonemes acquired during imagined speech (their imagined thinking / utterance) from electroencephalographic signals. In order to achieve the proposed objective, the following objectives are pursued:
 
 1. Establishment of the database: in this stage the aim is to acquire / establish the database to be used and segment it into signals obtained only during the imagined speech;
 2. Data preprocessing to eliminate noise;
